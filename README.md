@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="Screenshot (237)" src="https://github.com/user-attachments/assets/e707b371-2468-43f4-b872-925a0ecbaef3" /><img width="1366" height="768" alt="Screenshot (217)" src="https://github.com/user-attachments/assets/003c6185-1029-41ec-903d-aac89f207531" /># bookinghotel
+
 End-to-end deployment of the BookingHotel React application using Docker, Terraform, Azure DevOps CI/CD, Azure Container Registry, and Azure Kubernetes Service.
 
 This project demonstrates a complete production-grade CI/CD pipeline for deploying a React-based hotel booking frontend to Azure Kubernetes Service (AKS) using:
